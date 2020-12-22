@@ -6,6 +6,6 @@
 
 
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=snakehead007&show_icons=true&theme=radical)](karel.be)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=snakehead007&show_icons=true&theme=radical)](http://www.karel.be)
 
-[![My github top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snakehead007&theme=radical&layout=compact)](karel.be)
+[![My github top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snakehead007&theme=radical&layout=compact)](http://www.karel.be)
