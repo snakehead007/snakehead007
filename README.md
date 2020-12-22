@@ -6,6 +6,14 @@
 
 
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=snakehead007&show_icons=true&theme=radical)](http://www.karel.be)
-
-[![My github top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snakehead007&theme=radical&layout=compact)](http://www.karel.be)
+<div align="center">
+  <h4> 
+    📊 My stats 📊
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/kogisin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snakehead007&theme=radical&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snakehead007&theme=radical&layout=compact"/>
+  </a>
+</p>
