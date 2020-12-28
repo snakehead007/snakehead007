@@ -1,10 +1,12 @@
-## 🎄🎄🎄🎄🎄 Welcome! 🎄🎄🎄🎄🎄
+<div align="center">
+<h4>  🎉🎉🎉🎉🎉 Welcome! 🎉🎉🎉🎉🎉 </h4>
 
 - 🔭 I’m currently working on [the Fyrebrick project](https://github.com/fyrebrick)
 - 🌱 I’m currently learning React, Kubernetes
 - 💬 Ask me anything about Javascript and node.js
 - 🖥  My [dev.to](https://dev.to/snakehead007)
 
+</div>
 
 <div align="center">
   <h4> 
