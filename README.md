@@ -16,6 +16,7 @@
     📊 My stats 📊
   </h4>
 </div>
+<hr />
 <p align="center">
   <a href="http://www.karel.be">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snakehead007&show_icons=true&theme=radical "/>
