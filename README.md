@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on [the Fyrebrick project](https://github.com/fyrebrick)
  
- 🌱 I’m currently learning [https://reactjs.org/](React.js) and [https://nextjs.org/](Next.js)
+ 🌱 I’m currently learning [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/)
  
  💬 Ask me anything about Javascript and node.js
  
