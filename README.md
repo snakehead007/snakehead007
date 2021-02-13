@@ -7,7 +7,7 @@
  
  💬 Ask me anything about Javascript and node.js
  
- 🖥  My [dev.to](https://dev.to/snakehead007)
+ <!-- 🖥  My [dev.to](https://dev.to/snakehead007) -->
 
 </div>
 
