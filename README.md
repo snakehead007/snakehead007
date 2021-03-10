@@ -19,7 +19,7 @@
 <hr />
 <p align="center">
   <a href="http://www.karel.be">
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=snakehead007&hide=issues&show_icons=true "/>
-    <img height="360em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007"/>
+    <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=snakehead007&hide=issues&show_icons=true "/>
+    <img height="360em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007"/>
   </a>
 </p>
