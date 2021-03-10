@@ -13,11 +13,13 @@
   <h4> 
     📊 My stats 📊
   </h4>
-<p>
+</div>
+
+<p align="right">
   <a href="http://www.karel.be">
-    <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api?username=snakehead007&hide=issues&show_icons=true "/>
-    <img height="360em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007"/>
   </a>
 </p>
- 
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=fyrebrick&repo=fyrebrick&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515">
 </div>
