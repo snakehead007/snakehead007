@@ -3,7 +3,7 @@
 
  📋 Im a Full Stack Developer working with Javascript and PHP for the [Catholic University of Leuven](kuleuven.be/english)
  
- 🌱 Im finishing my study with an end-project with technologies: [Next.js](https://nextjs.org/) and [Java Spring](https://spring.io/)
+ 🌱 Im finishing my studies with an end-project with technologies: [Next.js](https://nextjs.org/) and [Java Spring](https://spring.io/)
  
  🔭 As hobby I'm working on [the Fyrebrick project](https://github.com/fyrebrick), which is a mobile friendly tool that helps picking orders from [Bricklink.com](https://www.bricklink.com/) (The official Lego® seller site)
  
