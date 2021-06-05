@@ -1,7 +1,7 @@
 <div align="center">
 <h4> 👨‍💻👨‍💻👨‍💻👨‍💻 Welcome! 👨‍💻👨‍💻👨‍💻👨‍💻 </h4>
 
- 📋 Im a Full Stack Developer working with Javascript and PHP for the [Catholic University of Leuven](kuleuven.be/english)
+ 📋 Im a Full Stack Developer working with Javascript and PHP for the [Catholic University of Leuven](https://kuleuven.be/english)
  
  🌱 Im finishing my studies with an end-project with technologies: [Next.js](https://nextjs.org/) and [Java Spring](https://spring.io/)
  
