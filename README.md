@@ -16,7 +16,7 @@
     📊 My stats 📊
   </h4>
   <a href="http://www.karel.be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakehead007"/>
   </a>
 </div>
 <div align="center">
