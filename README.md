@@ -1,1 +1,1 @@
-# Renamed to [kdssoftware](https://github.com/kdssoftware)
+# Renamed to [KDSSOFTWARE](https://github.com/kdssoftware)
